@@ -3,4 +3,7 @@ This application was made for a pediatrician to help him access patient's data q
 
 Visual Basic and the .NET framework were used here to make it in a small form
 
-the save file is in "Database\bin\Debug" and the application is called Database.exe
+The save file is in "Database\bin\Debug" and the application is called Database.exe
+
+## Requirements:
+This project was made using Visual Studio, so accessing it will require the program + the .NET module
